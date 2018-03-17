@@ -1,0 +1,97 @@
+body {
+	margin: 20px 0px 20px 0px;
+	font-family: 'Poppins', sans-serif;
+	background: url('../images/speeding-train.jpg') no-repeat;
+    background-size: cover;
+}
+
+.header {
+	background-color:whitesmoke;
+}
+
+.header h3 {
+	
+	color:black;
+	font-family: 'Poppins', sans-serif;
+	font-size: 32px;
+	line-height: 0px;
+	margin:0px;
+	padding-bottom:0px;
+
+}
+
+#icon {
+	float: left;
+	padding:0;
+}
+
+#clock {
+	text-align: right;
+}
+
+#addTitle {
+	float: left;
+	padding:0px;
+}
+
+#add {
+	text-align: right;
+	padding:0;
+}
+
+
+label {
+	margin-top: 20px;
+}
+
+#timeFormat {
+	font-size: 12px;
+}
+
+button {
+	margin-top: 20px;
+}
+
+div#newTrainSchedule.panel-body{
+	height: 0px;
+	max-height: 400px;
+	visibility: hidden;
+	padding: 0px 15px 0px 15px;
+
+}
+
+.newTrainInput {
+	padding:0px;
+
+}
+
+#newTrain {
+	text-align: right;
+}
+
+#formClick{
+	float: right;
+}
+
+thead{
+	align-content: center;
+}
+
+
+.imageSection {
+	margin-left: 90px;
+	padding: 10px;
+	background-color: white;
+	border-radius: 3px;
+	text-align: center;
+	
+}
+
+img {
+	border-radius: 3px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+	
+}
